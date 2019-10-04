@@ -274,6 +274,7 @@ header nav{
     display:flex;
     padding: 10px 0px 10px 30px;
     border-radius: 15px;
+    margin-top: 10px;
 }
 .sidebyside{
     display:flex;
