@@ -144,3 +144,21 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+nav{
+    display:flex;
+    justify-content: space-evenly;
+    margin: 60px 475px 0px 475px;
+    align-items: baseline;
+    align-content: center;
+    margin-left: 
+}
+a{   
+    color: black;
+    text-decoration: none;
+
+}
+.logoheader{
+    display:flex;
+    justify-content: center;
+}
